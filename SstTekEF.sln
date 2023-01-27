@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.Data", "EFCore.Data\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreWebApi", "EFCoreWebApi\EFCoreWebApi.csproj", "{5F918DA3-6F16-43DF-B134-C971412AECFF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCore.Common", "EFCore.Common\EFCore.Common.csproj", "{78781C10-B7A3-424F-842D-AE3415F2A7F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{5F918DA3-6F16-43DF-B134-C971412AECFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F918DA3-6F16-43DF-B134-C971412AECFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F918DA3-6F16-43DF-B134-C971412AECFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78781C10-B7A3-424F-842D-AE3415F2A7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78781C10-B7A3-424F-842D-AE3415F2A7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78781C10-B7A3-424F-842D-AE3415F2A7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78781C10-B7A3-424F-842D-AE3415F2A7F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
